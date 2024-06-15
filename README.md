@@ -9,7 +9,27 @@ Este proyecto es una aplicación simple de detección de objetos utilizando Open
 - OpenCV-Python
 - Numpy
 
+## Configuración del entorno virtual
+
+Es recomendable utilizar un entorno virtual para instalar las dependencias del proyecto. Puedes crear un entorno virtual con el siguiente comando:
+
+```bash
+python -m venv env
+```
+
 Puedes instalar los paquetes requeridos usando pip:
+
+Para activar el entorno virtual, usa el siguiente comando:
+En Windows:
+```bash
+env\Scripts\activate
+```
+
+En Unix o MacOS:
+
+```bash
+source env/bin/activate
+```
 
 ```bash
 pip install -r requirements.txt
