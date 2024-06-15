@@ -21,7 +21,7 @@ Puedes instalar los paquetes requeridos usando pip:
 Para activar el entorno virtual, usa el siguiente comando:
 En Windows:
 ```bash
-env\Scripts\activate
+.env\Scripts\activate
 ```
 
 En Unix o MacOS:
