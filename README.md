@@ -30,6 +30,9 @@ En Unix o MacOS:
 source env/bin/activate
 ```
 
+## Instalación de dependencias
+Puedes instalar los paquetes requeridos usando pip:
+
 ```bash
 pip install -r requirements.txt
 ```
