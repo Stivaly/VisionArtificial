@@ -1,4 +1,3 @@
-```markdown
 # Proyecto de Detección de Objetos
 
 Este proyecto es una aplicación simple de detección de objetos utilizando OpenCV y Python.
