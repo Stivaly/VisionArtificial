@@ -1,5 +1,3 @@
-Por supuesto, aquí tienes un `README.md` básico para tu proyecto:
-
 ```markdown
 # Proyecto de Detección de Objetos
 
