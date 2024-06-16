@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-El script principal es `detect_objects.py`. Este script carga imágenes de una lista especificada, las convierte a escala de grises, aplica una ecualización de histograma para un mejor contraste, aplica un desenfoque gaussiano, realiza la detección de bordes, encuentra contornos y finalmente dibuja los contornos en la imagen original. También calcula y muestra el número de objetos detectados en la imagen.
+El script principal es `detect_objects.py`. Este script carga imágenes de una lista especificada, las convierte a escala de grises, aplica una ecualización de histograma para un mejor contraste, aplica un desenfoque gaussiano, realiza la detección de bordes, encuentra contornos y finalmente dibuja los contornos en la imagen original. También calcula y muestra el número de objetos detectados en la imagen. Se debe presionar cualquier tecla para que vaya avanzando el script. 
 
 Para ejecutar el script, usa el siguiente comando:
 
